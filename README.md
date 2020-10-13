@@ -10,7 +10,7 @@ You will typically play the role of driver and the Engineer will be the navigato
 
 If there is something you don't know, searching online is fine and encouraged.
 
-### Platform Choice
+### Solution Choice
 
 Depending on the nature of the role you are applying for, you can create the application as either a command line application, web application or mobile application.
 
