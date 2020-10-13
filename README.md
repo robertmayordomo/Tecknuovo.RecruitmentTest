@@ -21,14 +21,14 @@ MileEnd Inc
 
 MileEnd Inc is a small local supermarket and they are looking provide their customers that are shielding a way to order their products so they can remain competitive during the covid-19 pandemic and hopefully increase their revenue stream.
 
-The list of products can be found on this file.
+The list of products can be found on this [file](productList.json).
 
 ### Stories
 
 #### Story 1 : List products
 
-As a **customer**
-I want to **see the list of products available**
+As a **customer**   
+I want to **see the list of products available**    
 So that **I can choose which one I can buy**
 
 Acceptance Criteria:
@@ -37,9 +37,9 @@ Acceptance Criteria:
 - I can see the product price
 
 #### Story 2 : List products by type
-As a **customer**
-I want to **be able to filter the products by type**
-So that **I can focus on what really matters to me**
+As a **customer**   
+I want to **be able to filter the products by type**   
+So that **I can focus on what really matters to me**  
 
 Acceptance Criteria:
 - I can see the product's name, description and price
@@ -47,9 +47,9 @@ Acceptance Criteria:
 - I can select a product type and see that the list of products displayed are only of that type.
 
 #### Story 3 : Add product to the basket and apply a promotion
-As a **customer**
-I want to **be able to add a product to my basket**
-So that **I can proceed with a purchase**
+As a **customer**   
+I want to **be able to add a product to my basket**   
+So that **I can proceed with a purchase**   
 
 Acceptance Criteria:
 - I can see the product I want to purchase on my basket
