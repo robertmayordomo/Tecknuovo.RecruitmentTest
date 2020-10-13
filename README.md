@@ -39,7 +39,7 @@ Acceptance Criteria:
 #### Story 2 : List products by type
 As a **customer**   
 I want to **be able to filter the products by type**   
-So that **I can focus on what really matters to me**  
+So that **I can focus on what I am interested in**  
 
 Acceptance Criteria:
 - I can see the product's name, description and price
