@@ -53,5 +53,5 @@ So that **I can proceed with a purchase**
 
 Acceptance Criteria:
 - I can see the product I want to purchase on my basket
-- I can add in a promotion code to apply a 20% discount
+- I can add in a promotion code to apply a 20% discount on on the 3rd, 6th, 9th product of the basket
 - I can see the total value of my basket
