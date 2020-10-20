@@ -38,15 +38,23 @@ Acceptance Criteria:
 
 #### Story 2 : List products by type
 As a **customer**   
+I want to **be able to see the type of each product**   
+So that **I can focus on what I am interested in**  
+
+Acceptance Criteria: 
+- I can see a list of product types. 
+
+
+#### Story 3 : List products by type
+As a **customer**   
 I want to **be able to filter the products by type**   
 So that **I can focus on what I am interested in**  
 
 Acceptance Criteria:
 - I can see the product's name, description and price
-- I can see a list of product types
 - I can select a product type and see that the list of products displayed are only of that type.
 
-#### Story 3 : Add product to the basket and apply a promotion
+#### Story 4 : Add product to the basket and apply a promotion
 As a **customer**   
 I want to **be able to add a product to my basket**   
 So that **I can proceed with a purchase**   
