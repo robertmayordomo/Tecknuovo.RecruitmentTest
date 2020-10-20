@@ -36,7 +36,7 @@ Acceptance Criteria:
 - I can see a description of the product
 - I can see the product price
 
-#### Story 2 : List products by type
+#### Story 2 : List product types
 As a **customer**   
 I want to **be able to see the type of each product**   
 So that **I can focus on what I am interested in**  
